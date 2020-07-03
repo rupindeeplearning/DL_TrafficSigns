@@ -1,0 +1,6 @@
+numpy
+streamlit
+pillow
+tensorflow==1.15.2
+pandas
+opencv-python
